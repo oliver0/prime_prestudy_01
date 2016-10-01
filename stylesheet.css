@@ -6,6 +6,7 @@ html, body{
 }
 
 h1 {
+	font-size: 350%;
 	color: white;
 	font-family: courier, monospace;
 	text-align: center;
