@@ -2,3 +2,9 @@ body{
 	background: linear-gradient(-180deg, black, hsl(0, 0%, 8%));
 
 }
+
+h1 {
+	color: white;
+	font-family: courier, monospace;
+	text-align: center;
+}
