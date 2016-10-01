@@ -8,3 +8,12 @@ h1 {
 	font-family: courier, monospace;
 	text-align: center;
 }
+
+#hal {
+	width: 200px;
+	height: 200px;
+	background: radial-gradient(white, yellow, orange 10%, 
+								hsl(0, 100%, 50%) 15%, red 30%, 
+								black 70%);
+	border-radius: 50%;
+}
