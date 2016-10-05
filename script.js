@@ -1,1 +1,5 @@
-console.log("Hey this works!");
+function testMessage(){
+	console.log("Hey this works!");
+}
+
+testMessage();
